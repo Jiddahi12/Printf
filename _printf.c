@@ -24,7 +24,7 @@ int _printf(const char *format, ...)
 	{"u", op_unsigned},
 	{"o", op_octal},
 	{"x", op_hex},
-	{"X", op_heX},
+	{"X", op_heX}
 	{"r", op_print_str_rev},
 	{"R", op_rot13},
 	{"S", op_strUcase},

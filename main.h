@@ -103,5 +103,3 @@ void _putchar_base(char *str);
 
 
 #endif
-
-
